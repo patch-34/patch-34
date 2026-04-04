@@ -1,29 +1,29 @@
-# Aleksei Vorobev
+# Aleksei Vorobev | Patch34
 
-Sound designer and composer. I work in REAPER —
-editing dialogue, building soundscapes, scoring things.
-At some point I started writing scripts to fix the parts
-that kept slowing me down. That was a few years ago,
-and now there's a whole toolkit.
+Sound designer and composer.
+I build scripts, utilities, and small experiments for REAPER —
+editing tools, workflow helpers, UI ideas.
 
-Some scripts are straightforward utilities.
-Some are experiments that made sense at the time.
-One of them renders pixel art inside the timeline.
-I find that all of this comes from the same place:
-noticing friction, then doing something about it.
-
-I use AI tools in my process — for prototyping,
-for exploring implementation paths. The decisions
-are still mine.
-
-## What's here
+## What I do
 - REAPER scripts and workflow tools
-- JSFX instruments
-- UI experiments
-- things built inside a DAW that probably
-  shouldn't exist there
+- sound design and audio editing utilities
+- UI and interaction experiments
 
----
-**Patch34**
-Scripts and tools for REAPER.
-Useful, weird, and everything in between.
+## About this GitHub
+This is where I publish tools under the Patch34 name.
+Most of the work sits somewhere between practical utility
+and genuine curiosity — things that solve real problems,
+speed up repetitive tasks, or explore unusual ideas inside REAPER.
+Simple and direct when it needs to be. Strange when it wants to be.
+
+## Selected projects
+- **Patch34: Focus Blanket** — [github.com/patch-34/focus-blanket](https://github.com/patch-34/focus-blanket)
+- **Patch34: Reaper Pixel Art** — [github.com/patch-34/reaper-pixel-art](https://github.com/patch-34/reaper-pixel-art)
+- **Patch34: Raw Six** — [github.com/patch-34/raw-six](https://github.com/patch-34/raw-six)
+
+## Support
+If you use these tools and want to say thanks:
+[boosty.to/patch34](https://boosty.to/patch34/donate)
+
+## Links
+- [github.com/patch-34](https://github.com/patch-34)
