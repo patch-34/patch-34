@@ -1,16 +1,29 @@
-## Hi there 👋
+# Aleksei Vorobev
 
-<!--
-**patch-34/patch-34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sound designer and composer. I work in REAPER —
+editing dialogue, building soundscapes, scoring things.
+At some point I started writing scripts to fix the parts
+that kept slowing me down. That was a few years ago,
+and now there's a whole toolkit.
 
-Here are some ideas to get you started:
+Some scripts are straightforward utilities.
+Some are experiments that made sense at the time.
+One of them renders pixel art inside the timeline.
+I find that all of this comes from the same place:
+noticing friction, then doing something about it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use AI tools in my process — for prototyping,
+for exploring implementation paths. The decisions
+are still mine.
+
+## What's here
+- REAPER scripts and workflow tools
+- JSFX instruments
+- UI experiments
+- things built inside a DAW that probably
+  shouldn't exist there
+
+---
+**Patch34**
+Scripts and tools for REAPER.
+Useful, weird, and everything in between.
