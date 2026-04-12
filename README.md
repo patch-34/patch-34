@@ -4,12 +4,6 @@ Sound designer and composer.
 I build scripts, utilities, and small experiments for REAPER —
 editing tools, workflow helpers, UI ideas.
 
-## What I do
-- REAPER scripts and workflow tools
-- sound design and audio editing utilities
-- UI and interaction experiments
-
-## About this GitHub
 This is where I publish tools under the Patch34 name.
 Most of the work sits somewhere between practical utility
 and genuine curiosity — things that solve real problems,
