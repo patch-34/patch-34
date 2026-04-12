@@ -18,6 +18,3 @@ Simple and direct when it needs to be. Strange when it wants to be.
 ## Support
 If you use these tools and want to say thanks:
 [boosty.to/patch34/donate](https://boosty.to/patch34/donate)
-
-## Links
-- [github.com/patch-34](https://github.com/patch-34)
