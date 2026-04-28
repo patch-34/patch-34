@@ -1,8 +1,8 @@
 # Aleksei Vorobev | Patch34
 
 Hey everyone!
-I'm sound designer and composer.
-Here I share scripts, utilities, and small experiments for REAPER I'd build.
+I'm a sound designer and composer.
+Here I share scripts, utilities, and small experiments for REAPER.
 
 Most of the work sits somewhere between practical utility
 and genuine curiosity — things that solve real problems,
