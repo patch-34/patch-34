@@ -7,7 +7,8 @@ Here I share scripts, utilities, and small experiments for REAPER.
 Most of the work sits somewhere between practical utility
 and genuine curiosity — things that solve real problems,
 speed up repetitive tasks, or explore unusual ideas inside REAPER.
-Simple and direct when it needs to be. Strange when it wants to be.
+
+So, simple and direct when it needs to be, strange when it wants to be.
 
 ## Selected projects
 - **Patch34: Brickwall Limiter** — [github.com/patch-34/patch34-brickwall-limiter](https://github.com/patch-34/patch34-brickwall-limiter)
