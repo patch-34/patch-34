@@ -4,11 +4,9 @@ Hey everyone!
 I'm a sound designer and composer.
 Here I share scripts, utilities, and small experiments for REAPER.
 
-Most of the work sits somewhere between practical utility
-and genuine curiosity — things that solve real problems,
-speed up repetitive tasks, or explore unusual ideas inside REAPER.
-
-So, simple and direct when it needs to be, strange when it wants to be.
+Most of the work sits somewhere between  utility
+and curiosity — things that solve problems,
+speed up repetitive tasks, or explore fun ideas inside REAPER.
 
 ## Selected projects
 - **Patch34: Brickwall Limiter** — [github.com/patch-34/patch34-brickwall-limiter](https://github.com/patch-34/patch34-brickwall-limiter)
