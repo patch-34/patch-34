@@ -10,8 +10,8 @@ speed up repetitive tasks, or explore fun ideas inside REAPER.
 
 ## Selected projects
 - **Patch34: Brickwall Limiter** — [github.com/patch-34/patch34-brickwall-limiter](https://github.com/patch-34/patch34-brickwall-limiter)
-- **Patch34: Raw Six** — [github.com/patch-34/raw-six](https://github.com/patch-34/raw-six)
 - **Patch34: Reaper Pixel Art** — [github.com/patch-34/reaper-pixel-art](https://github.com/patch-34/reaper-pixel-art)
+- **Patch34: Raw Six** — [github.com/patch-34/raw-six](https://github.com/patch-34/raw-six)
 
 ## Support
 If you use these tools and want to say thanks:
