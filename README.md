@@ -1,6 +1,7 @@
 # Aleksei Vorobev | Patch34
 
-Sound designer and composer.
+Hey everyone!
+I'm sound designer and composer.
 I build scripts, utilities, and small experiments for REAPER —
 editing tools, workflow helpers, UI ideas.
 
