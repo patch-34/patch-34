@@ -2,8 +2,7 @@
 
 Hey everyone!
 I'm sound designer and composer.
-I build scripts, utilities, and small experiments for REAPER —
-editing tools, workflow helpers, UI ideas.
+Here I share scripts, utilities, and small experiments for REAPER I'd build.
 
 This is where I publish tools under the Patch34 name.
 Most of the work sits somewhere between practical utility
