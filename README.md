@@ -11,7 +11,7 @@ speed up repetitive tasks, or explore unusual ideas inside REAPER.
 Simple and direct when it needs to be. Strange when it wants to be.
 
 ## Selected projects
-- **Patch34: Brickwall Limiter** — [github.com/patch-34/focus-blanket](https://github.com/patch-34/focus-blanket)
+- **Patch34: Brickwall Limiter** — [github.com/patch-34/patch34-brickwall-limiter](https://github.com/patch-34/patch34-brickwall-limiter)
 - **Patch34: Raw Six** — [github.com/patch-34/raw-six](https://github.com/patch-34/raw-six)
 - **Patch34: Reaper Pixel Art** — [github.com/patch-34/reaper-pixel-art](https://github.com/patch-34/reaper-pixel-art)
 
