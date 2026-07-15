@@ -1,4 +1,4 @@
-# Aleksei Vorobev | Patch34
+# Aleksei Vorobev
 
 Sound designer, composer, and REAPER scripting enthusiast.
 
