@@ -10,7 +10,7 @@ Most of my projects grow out of real post-production work: repetitive actions, r
 
 ## REAPER scripts & workflow tools
 
-| | | |
+| | |
 |---|---|---|
 | **[Reaper Ping](https://github.com/patch-34/reaper-ping)**<br>Telegram alerts when a REAPER render finishes. | **[Duplicate Items to Next Measure](https://github.com/patch-34/duplicate-items-to-next-measure)**<br>Duplicates selected items one measure forward. | **[Region Time Counter Mini](https://github.com/patch-34/region-time-counter-mini)**<br>Counts unique region time without overlaps. |
 | **[Find and Recolor Glued Items](https://github.com/patch-34/find-and-recolor-glued-items)**<br>Finds and recolors glued item derivatives. | **[Focus Blanket](https://github.com/patch-34/focus-blanket)**<br>A one-toggle full-screen listening view. | **[Play Before Next Marker or Region](https://github.com/patch-34/edit-play-2s-before-next-marker-or-region)**<br>Jumps to two seconds before the next boundary. |
