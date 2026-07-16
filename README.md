@@ -76,17 +76,6 @@ This is still a work in progress, but it is becoming one of the main Patch34 dir
 
 ---
 
-## What I care about
-
-- practical tools for real audio workflows
-- REAPER automation
-- small utilities that remove boring manual work
-- experimental uses of DAWs
-- custom interfaces for sound tools
-- scripts that are useful, weird, or both
-
----
-
 ## Support
 
 If you use these tools and want to say thanks:
