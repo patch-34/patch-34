@@ -10,11 +10,50 @@ Most of my projects grow out of real post-production work: repetitive actions, r
 
 ## REAPER scripts & workflow tools
 
-| | | |
-|---|---|---|
-| **[Reaper Ping](https://github.com/patch-34/reaper-ping)**<br>Telegram alerts when a REAPER render finishes. | **[Duplicate Items to Next Measure](https://github.com/patch-34/duplicate-items-to-next-measure)**<br>Duplicates selected items one measure forward. | **[Region Time Counter Mini](https://github.com/patch-34/region-time-counter-mini)**<br>Counts unique region time without overlaps. |
-| **[Find and Recolor Glued Items](https://github.com/patch-34/find-and-recolor-glued-items)**<br>Finds and recolors glued item derivatives. | **[Focus Blanket](https://github.com/patch-34/focus-blanket)**<br>A one-toggle full-screen listening view. | **[Play Before Next Marker or Region](https://github.com/patch-34/edit-play-2s-before-next-marker-or-region)**<br>Jumps to two seconds before the next boundary. |
-| **[Delete Nearest Marker](https://github.com/patch-34/delete-nearest-marker-to-cursor)**<br>Deletes the marker nearest the edit cursor. | **[REAPER Timeline Screensaver](https://github.com/patch-34/reaper-timeline-screensaver)**<br>An animated screensaver inside the timeline. | **[REAPER Pixel Art Generator](https://github.com/patch-34/reaper-pixel-art)**<br>Turns images into REAPER pixel-art scripts. |
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/patch-34/reaper-ping">Reaper Ping</a></strong><br>
+      Telegram alerts when a REAPER render finishes.
+    </td>
+    <td>
+      <strong><a href="https://github.com/patch-34/duplicate-items-to-next-measure">Duplicate Items to Next Measure</a></strong><br>
+      Duplicates selected items one measure forward.
+    </td>
+    <td>
+      <strong><a href="https://github.com/patch-34/region-time-counter-mini">Region Time Counter Mini</a></strong><br>
+      Counts unique region time without overlaps.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/patch-34/find-and-recolor-glued-items">Find and Recolor Glued Items</a></strong><br>
+      Finds and recolors glued item derivatives.
+    </td>
+    <td>
+      <strong><a href="https://github.com/patch-34/focus-blanket">Focus Blanket</a></strong><br>
+      A one-toggle full-screen listening view.
+    </td>
+    <td>
+      <strong><a href="https://github.com/patch-34/edit-play-2s-before-next-marker-or-region">Play Before Next Marker or Region</a></strong><br>
+      Jumps to two seconds before the next boundary.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/patch-34/delete-nearest-marker-to-cursor">Delete Nearest Marker</a></strong><br>
+      Deletes the marker nearest the edit cursor.
+    </td>
+    <td>
+      <strong><a href="https://github.com/patch-34/reaper-timeline-screensaver">REAPER Timeline Screensaver</a></strong><br>
+      An animated screensaver inside the timeline.
+    </td>
+    <td>
+      <strong><a href="https://github.com/patch-34/reaper-pixel-art">REAPER Pixel Art Generator</a></strong><br>
+      Turns images into REAPER pixel-art scripts.
+    </td>
+  </tr>
+</table>
 
 ---
 
