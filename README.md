@@ -6,9 +6,9 @@ I build tools that grow out of everyday audio work: custom interfaces, render wo
 
 ## ReaUI Builder
 
-![ReaUI Builder logo](reaui-builder-logo.svg)
-
 My main project is **ReaUI Builder**, a visual layout editor for ReaImGui interfaces in REAPER.
+
+![ReaUI Builder](assets/reaui-builder-logo.svg)
 
 Arrange widgets on a canvas, organize them into panels, tabs, and tables, and adjust their properties and styles. Export the layout as Lua code, then add your script's behavior at the generated `TODO` comments.
 
