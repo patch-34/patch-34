@@ -1,10 +1,18 @@
 # Aleksei Vorobev
 
-Sound designer, composer, and REAPER scripting enthusiast.
+Sound designer, composer, and REAPER toolmaker.
 
-I make small tools for audio work: REAPER scripts, JSFX plugins, workflow utilities, and experiments that sit somewhere between practical automation and weird DAW-specific ideas.
+I build tools that grow out of everyday audio work: custom interfaces, render workflows, repetitive edits, and the occasional weird DAW-specific idea.
 
-Most of my projects grow out of real post-production work: repetitive actions, render workflows, custom UI needs, sound design utilities, and small problems that become tools.
+## ReaUI Builder
+
+My main project is **ReaUI Builder**, a visual layout editor for ReaImGui interfaces in REAPER.
+
+Arrange widgets on a canvas, organize them into panels, tabs, and tables, and adjust their properties and styles. Export the layout as Lua code, then add your script's behavior at the generated `TODO` comments.
+
+The editor runs locally in your browser from a single HTML file, with no installation or build setup. Save layouts as JSON projects to keep working on them later.
+
+I'm building it to make custom REAPER interfaces easier to put together, with less time spent writing layout code by hand.
 
 ---
 
@@ -54,25 +62,6 @@ Most of my projects grow out of real post-production work: repetitive actions, r
     </td>
   </tr>
 </table>
-
----
-
-## Work in progress
-
-### Reaper ReaImGui UI Layer Builder
-
-A visual UI builder for REAPER scripts.
-
-The goal is to make it easier to design ReaImGui-based interfaces without writing every layout detail by hand: place interface elements visually, define structure, and export Lua code with clear insertion points for script logic.
-
-Current focus:
-- visual layout building
-- REAPER/ReaImGui-oriented UI structure
-- exportable Lua scaffolding
-- clearer separation between interface code and script logic
-- helper layout elements such as child windows, groups, sections, and containers
-
-This is still a work in progress, but it is becoming one of the main Patch34 directions.
 
 ---
 
