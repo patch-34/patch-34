@@ -6,7 +6,7 @@ I build tools that grow out of everyday audio work: custom interfaces, render wo
 
 ## ReaUI Builder
 
-My main project is **ReaUI Builder**, a visual layout editor for ReaImGui interfaces in REAPER.
+My main project is **[ReaUI Builder](https://github.com/patch-34/reauibuilder)**, a visual layout editor for ReaImGui interfaces in REAPER.
 
 ![ReaUI Builder](assets/reaui-builder-logo.svg)
 
