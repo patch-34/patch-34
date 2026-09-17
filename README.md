@@ -1,10 +1,6 @@
 # Aleksei Vorobev
 
-Sound designer, composer, and REAPER toolmaker.
-
-I build tools that grow out of everyday audio work: custom interfaces, render workflows, repetitive edits, and the occasional weird DAW-specific idea.
-
-## ReaUI Builder
+Sound designer and and a novice REAPER script toolmaker.
 
 My main project is **ReaUI Builder**, a visual layout editor for ReaImGui interfaces in REAPER. And it will be ready soon. Very soon. I hope it will be ready soon. God, help me to have it ready soon.
 
