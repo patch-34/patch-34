@@ -1,6 +1,10 @@
 [**ReaUI Builder**](https://github.com/patch-34/reauibuilder) is a visual layout editor for ReaImGui interfaces in REAPER. And it will be ready soon. Very soon. I hope it will be ready soon. God, help me to have it ready soon.
 
-![ReaUI Builder](assets/reaui-builder-logo.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/reaui-builder-logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/reaui-builder-logo-light.svg">
+  <img alt="ReaUI Builder" src="assets/reaui-builder-logo-light.svg" width="960">
+</picture>
 
 Arrange widgets on a canvas, organize them into panels, tabs, and tables, and adjust their properties and styles. Export the layout as Lua code, then add your script's behavior at the generated `TODO` comments.
 
