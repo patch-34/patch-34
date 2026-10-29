@@ -2,6 +2,16 @@
 
 ![ReaUI Builder](assets/reaui-builder-logo.svg)
 
+<!--
+  Keep both SVG files in the same repository path as this README reference.
+  GitHub switches the source automatically with the user's color theme.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./reaui-builder-logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./reaui-builder-logo-light.svg">
+  <img alt="ReaUI Builder — Visual layout editor for ReaImGui / REAPER" src="./reaui-builder-logo-light.svg" width="960">
+</picture>
+
 Arrange widgets on a canvas, organize them into panels, tabs, and tables, and adjust their properties and styles. Export the layout as Lua code, then add your script's behavior at the generated `TODO` comments.
 
 The editor runs locally in your browser from a single HTML file, with no installation or build setup. Save layouts as JSON projects to keep working on them later.
